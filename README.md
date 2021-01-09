@@ -1,2 +1,2 @@
 # PersonalSite
-personal site to practice coding
+This is a personal site where I practice coding.
